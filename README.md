@@ -206,16 +206,7 @@ The final comparison helps determine which model performs better on the unseen t
 
 **Final model performance:** Add the actual evaluation metrics obtained after running the program.
 
-## 12. Future Enhancements
-
-- Experiment with additional classification algorithms.
-- Perform hyperparameter tuning to improve performance.
-- Develop an interactive dashboard for load prediction.
-- Integrate real-time electricity consumption data.
-- Deploy the trained model as a web application.
-- Investigate time-series forecasting for future electricity demand.
-
-## 13. Author
+## 12. Author
 
 **Project:** Power Load Type Prediction Using Machine Learning
 
